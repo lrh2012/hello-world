@@ -1,2 +1,3 @@
 # hello-world
-Just another repositoty
+Just another repository
+Hello this is Rony speaking
